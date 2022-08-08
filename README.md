@@ -10,4 +10,4 @@ I tackle the challenges of developing high-quality test cases, their selection, 
 
 My inspiration is to contribute and deliver practical and powerful test environments to software practitioners - by fusing highly assured software, delivered at a reasonable cost, with partial or complete automation to the testers. 🔬👨‍🔬👨‍💻🧩
 
-I'm always looking to collaborate! 👯😄 Feel free also to get in touch through social media (👇), or my work email!
+I'm always looking to collaborate! 👯🙏 Feel free also to get in touch through social media (👇), or my work email!
